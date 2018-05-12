@@ -1,4 +1,8 @@
 _repo: Empire-Partnership_47347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47347-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Dafoe, John Wesley
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6097
     wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Dafoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47347#Empire-Partnership
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
